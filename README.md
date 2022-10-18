@@ -1,6 +1,12 @@
 # Tela Login
 Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de js. Nesse projeto realizei juntamente com um curso na alura um jogo de Cross the street.
 <br>
+ <div align="center">
+    <h1>Site do Projeto:</h1>
+    https://eduardofranco572.github.io/PlayStation-Dashboard/
+   <br>    
+</div>
+<br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
 <div align="center" style="display: inline_block"><br> 
